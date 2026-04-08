@@ -18,6 +18,9 @@ The resulting iteration counts are plotted as a heatmap using the prism colormap
 
 # Usage
 Run the notebook and enter the real and imaginary parts of c when prompted:
+
 Real C: -0.125
+
 Imaginary C: 0.75
+
 This produces a 500×500 visualization of the Julia set for c = -0.125 + 0.75i.
